@@ -17,7 +17,7 @@ def fourth_challenge
       :heroine_friends => [
         name: "Mercutio",
         age: "18",
-        attitude: "worried"
+        attitude: "hot-headed"
       ]
    }
 }
